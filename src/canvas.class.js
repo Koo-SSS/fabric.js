@@ -238,7 +238,7 @@
      * @type String
      * @default
      */
-    rotationCursor:         'crosshair',
+    rotationCursor:         'nw-resize',
 
     /**
      * Cursor value used for disabled elements ( corners with disabled action )
